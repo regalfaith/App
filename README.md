@@ -1,2 +1,2 @@
-# testapp
-my first repository
+# App
+Repository
